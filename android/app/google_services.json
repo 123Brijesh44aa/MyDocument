@@ -1,0 +1,7 @@
+{"installed": {
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "client_id": "487271319351-edg58obos4svj5ff5kqhkbsdagmcdm8e.apps.googleusercontent.com",
+  "project_id": "docs-clone-flutter-409506",
+  "token_uri": "https://oauth2.googleapis.com/token"
+}}
